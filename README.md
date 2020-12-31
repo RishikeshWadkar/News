@@ -19,3 +19,9 @@ Tools
 * Android API v27
 * Android Build Tools v27
 * [News API](https://newsapi.org/)
+
+Screenshots
+------------
+
+<img src="https://user-images.githubusercontent.com/59508176/103399271-461d3a00-4b66-11eb-86c0-ce394bd34496.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/59508176/103399272-487f9400-4b66-11eb-93c3-7b2e81abb24e.png" width="300"/>
